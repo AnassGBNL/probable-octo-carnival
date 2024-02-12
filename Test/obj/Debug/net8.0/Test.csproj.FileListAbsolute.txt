@@ -1,0 +1,14 @@
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/bin/Debug/net8.0/Test
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/bin/Debug/net8.0/Test.deps.json
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/bin/Debug/net8.0/Test.runtimeconfig.json
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/bin/Debug/net8.0/Test.dll
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/bin/Debug/net8.0/Test.pdb
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.AssemblyInfoInputs.cache
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.AssemblyInfo.cs
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.csproj.CoreCompileInputs.cache
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.dll
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/refint/Test.dll
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.pdb
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/Test.genruntimeconfig.cache
+/Users/anass/Desktop/Hogeschool Rotterdam - Informatica/Jaar 1/C#/Test/obj/Debug/net8.0/ref/Test.dll
